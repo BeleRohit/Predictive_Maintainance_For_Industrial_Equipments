@@ -1,1 +1,0 @@
-# Predictive_Maintainance_For_Industrial_Equipments
